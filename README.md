@@ -2,6 +2,7 @@
 
 Visual Micro Arduino sketch that is intended to present a USB HID joystick on a capable board. The `.ino` still contains empty `setup()` and `loop()` bodies from the Visual Micro template, so it is a starting point rather than a finished device. Kept for Dave Robinson / VaderConsulting as a historical working copy from the Arduino archive.
 
+**Source last updated:** 2022-05-08  
 **Language:** C++ / Arduino  
 **Target:** Arduino (Visual Micro / Visual Studio, Win32/x64 toolchain metadata)  
 **Output:** Arduino sketch (`.ino`) plus Visual Micro `.vcxproj`
