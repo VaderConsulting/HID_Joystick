@@ -18,6 +18,11 @@ Visual Micro Arduino sketch that is intended to present a USB HID joystick on a 
 
 Open `HID_Joystick.ino` in the Arduino IDE, or open `HID_Joystick.vcxproj` in Visual Studio with Visual Micro.
 
+## Requirements
+
+- Arduino IDE
+- Visual Studio 2010 or later
+
 ## Attribution and provenance
 
 Author comments name `STUDIO\windo` (8 May 2022). Imported from Dave Robinson's Arduino archive. No third-party library tree is bundled in this repository.
