@@ -25,6 +25,7 @@ Open `HID_Joystick.ino` in the Arduino IDE, or open `HID_Joystick.vcxproj` in Vi
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `HID_Joystick`.
 Author comments name `STUDIO\windo` (8 May 2022). Imported from Dave Robinson's Arduino archive. No third-party library tree is bundled in this repository.
 
 ## License
