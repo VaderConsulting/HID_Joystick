@@ -1,6 +1,6 @@
 # HID_Joystick
 
-Visual Micro Arduino sketch that is intended to present a USB HID joystick on a capable board. The `.ino` still contains empty `setup()` and `loop()` bodies from the Visual Micro template, so it is a starting point rather than a finished device. Kept for Dave Robinson / VaderConsulting as a historical working copy from the Arduino archive.
+Visual Micro Arduino sketch that is intended to present a USB HID joystick on a capable board. The `.ino` still contains empty `setup()` and `loop()` bodies from the Visual Micro template, so it is a starting point rather than a finished device. Kept for Dave Robinson / Vader Consulting as a historical working copy from the Arduino archive.
 
 **Source last updated:** 2022-05-08  
 **Language:** C++ / Arduino  
@@ -30,4 +30,4 @@ Author comments name `STUDIO\windo` (8 May 2022). Imported from Dave Robinson's 
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave's code. See `LICENSE`.
